@@ -26,6 +26,14 @@
 *.a
 *.lib
 
+# DS_Store
+*.DS_Store
+
+# Binaries
+**
+!**/
+!**/*.*
+
 # Executables
 *.exe
 *.out
